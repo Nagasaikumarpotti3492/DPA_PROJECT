@@ -58,6 +58,6 @@ Contributions to this project are welcome. Please follow these steps to contribu
 5. Create a new Pull Request.
 
 ## Authors
+- Naga Sai Kumar Potti - [Nagasaikumar3492](https://github.com/Nagasaikumar3492)
 - Dhanush Bathineni - [dhanushbathineni](https://github.com/dhanushbathineni)
 - Narendra Swamy - [Narendra102742](https://github.com/Narendra102742)
-- Naga Sai Kumar Potti - [Nagasaikumar3492](https://github.com/Nagasaikumar3492)
